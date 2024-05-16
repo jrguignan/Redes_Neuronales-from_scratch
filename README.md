@@ -12,7 +12,7 @@ Las ventajas de las redes neuronales incluyen su capacidad para aprender patrone
 
 # Contenido Repositorio
 
-Estructura:<br>
+## Estructura General de los Distintos Archivos<br>
 Creacion de datos<br>
 Forward pass<br>
 Funcion error <br>
