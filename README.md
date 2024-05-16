@@ -13,15 +13,18 @@ Las ventajas de las redes neuronales incluyen su capacidad para aprender patrone
 # Contenido Repositorio
 
 ## Estructura General de los Distintos Archivos<br>
-Creacion de datos<br>
-Forward pass<br>
-Funcion error <br>
+Creación de Datos<br>
+Forward Pass<br>
+Funcion de Pérdida <br>
 Descenso del gradiente - Backpropagation<br>
 
 ## [Red 3 Neuronas - Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
 
+
 ## [Red 3 Neuronas - Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
 
+
 ## [Red 6 Neuronas](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA6.ipynb)
+
 
 ## [Red de Prueba](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA%20_Prueba)
