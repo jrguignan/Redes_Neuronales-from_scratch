@@ -14,9 +14,20 @@ Las ventajas de las redes neuronales incluyen su capacidad para aprender patrone
 
 ## Estructura General de los Distintos Archivos<br>
 Creación de Datos<br>
+
+Se crea una serie de puntos de una función lineal y luego se pasan por una función seno.
+
 Forward Pass<br>
+Se inicializa de manera aleatoria los pesos y los bias de la red, y se multiplican los valores por los pesos, luego se le suma el bias, para después hacer la composición con la función de activación. 
+
+Se utilizó una función sigmoide como función de activación.
+
 Funcion de Pérdida <br>
+Se calcula el error cuadratico a partir de los datos predichos y los datos originales.
+
 Descenso del Gradiente - Backpropagation<br>
+
+El descenso del gradiente se aplica sólo para las redes de una sola capa, en caso de poseer más de una capa se debe aplicar el algoritmo de backpropagation.
 
 ## [Red 3 Neuronas - Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
 
@@ -26,16 +37,6 @@ Descenso del Gradiente - Backpropagation<br>
 
 <p align="center">
 <img src="images/RNA3_B.png"  height=300>
-</p>
-
-## [Red 3 Neuronas - Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
-
-<p align="center">
-<img src="images/RNA3_2D_A.png"  height=300>
-</p>
-
-<p align="center">
-<img src="images/RNA3_2D_B.png"  height=300>
 </p>
 
 
@@ -58,4 +59,15 @@ Descenso del Gradiente - Backpropagation<br>
 
 <p align="center">
 <img src="images/RNA_Prueba_A.png"  height=300>
+</p>
+
+
+## [Red 3 Neuronas - Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
+
+<p align="center">
+<img src="images/RNA3_2D_A.png"  height=300>
+</p>
+
+<p align="center">
+<img src="images/RNA3_2D_B.png"  height=300>
 </p>
