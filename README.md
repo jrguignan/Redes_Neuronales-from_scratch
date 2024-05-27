@@ -57,5 +57,5 @@ Descenso del Gradiente - Backpropagation<br>
 ## [Red de Prueba](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA%20_Prueba)
 
 <p align="center">
-<img src="images/RNA3_Prueba_A.png"  height=300>
+<img src="images/RNA_Prueba_A.png"  height=300>
 </p>
