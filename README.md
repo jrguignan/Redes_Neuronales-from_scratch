@@ -16,15 +16,46 @@ Las ventajas de las redes neuronales incluyen su capacidad para aprender patrone
 Creación de Datos<br>
 Forward Pass<br>
 Funcion de Pérdida <br>
-Descenso del gradiente - Backpropagation<br>
+Descenso del Gradiente - Backpropagation<br>
 
 ## [Red 3 Neuronas - Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
 
+<p align="center">
+<img src="images/RNA3_A.png"  height=300>
+</p>
+
+<p align="center">
+<img src="images/RNA3_B.png"  height=300>
+</p>
 
 ## [Red 3 Neuronas - Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
+
+<p align="center">
+<img src="images/RNA3_2D_A.png"  height=300>
+</p>
+
+<p align="center">
+<img src="images/RNA3_2D_B.png"  height=300>
+</p>
 
 
 ## [Red 6 Neuronas](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA6.ipynb)
 
+<p align="center">
+<img src="images/RNA6_A.png"  height=300>
+</p>
+
+<p align="center">
+<img src="images/RNA6_B.png"  height=300>
+</p>
+
+<p align="center">
+<img src="images/RNA6_C.png"  height=300>
+</p>
+
 
 ## [Red de Prueba](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA%20_Prueba)
+
+<p align="center">
+<img src="images/RNA3_Pureba__A.png"  height=300>
+</p>
