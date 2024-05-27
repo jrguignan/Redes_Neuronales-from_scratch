@@ -13,19 +13,21 @@ Las ventajas de las redes neuronales incluyen su capacidad para aprender patrone
 # Contenido Repositorio
 
 ## Estructura General de los Distintos Archivos<br>
-Creación de Datos<br>
+# Creación de Datos<br>
 
 Se crea una serie de puntos de una función lineal y luego se pasan por una función seno.
 
-Forward Pass<br>
+# Forward Pass<br>
+
 Se inicializa de manera aleatoria los pesos y los bias de la red, y se multiplican los valores por los pesos, luego se le suma el bias, para después hacer la composición con la función de activación. 
 
 Se utilizó una función sigmoide como función de activación.
 
-Funcion de Pérdida <br>
+# Función de Pérdida <br>
+
 Se calcula el error cuadratico a partir de los datos predichos y los datos originales.
 
-Descenso del Gradiente - Backpropagation<br>
+# Descenso del Gradiente - Backpropagation<br>
 
 El descenso del gradiente se aplica sólo para las redes de una sola capa, en caso de poseer más de una capa se debe aplicar el algoritmo de backpropagation.
 
