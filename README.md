@@ -1,5 +1,3 @@
-# Redes_Neuronales-from_scratch - En Construcción 🚧
-
 <p align="center">
 <img src="images/rn.png"  height=300>
 </p>
@@ -50,6 +48,8 @@ Se ve como los puntos proporcionados por la red se aproximan en cieto dominio de
 
 <br>[Volver al Índice](#Índice)
 
+
+
 # [Red 6 Neuronas](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA6.ipynb)
 
 Red neuronal de 6 neuronas y una capa única:
@@ -60,12 +60,15 @@ Red neuronal de 6 neuronas y una capa única:
 
 Es una predicción muy similar a la red de 3 capas únicas.
 
+<hr style="border:2px solid gray">
+
 Red neuronal con dos capas de 3 neuronas cada una (sin matrices):
 
 <p align="center">
 <img src="images/RNA6_B.png"  height=400>
 </p>
 
+<hr style="border:2px solid gray">
 
 Red neuronal con dos capas de 3 neuronas cada una (con matrices):
 
@@ -76,6 +79,9 @@ Red neuronal con dos capas de 3 neuronas cada una (con matrices):
 Para estos dos casos se utilizaron más datos para el entrenamiento, ya que se apreción una mejora al aumentar los datos. Se ve una mejor aproximación que los casos de capas únicas.
 
 Se vio un cambio considerable en el tiempo de ejecución entre la red construida con matrices y sin matrices. En esto se ve que la arquitectura de las computadores se contruye en función de cuentas de algebra lienal.
+
+
+
 
 
 <br>[Volver al Índice](#Índice)
@@ -90,6 +96,10 @@ Red neuronal Tensorflow:
 
 Se ve como la red construida con Tensorflow-Keras tiene una proximación muy similar a la red de dos capas de 3 neuronas.
 
+<br>[Volver al Índice](#Índice)
+
+
+
 # [Red 3 Neuronas - Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
 
 Se utilizo la funcion np.meshgrid, para crear un mallado 2D (dominio) y luego pasar este mallado por una funcion y generar Z 2D (rango)
@@ -98,13 +108,11 @@ Red neuronal de 3 neuronas capa única:
 
 Gráfica del Error en funcion de las Épocas
 <p align="center">
-<img src="images/RNA3_2D_A.png"  height=400>
+<img src="images/RNA3_2D_A.png"  height=300>
 </p>
 
-
-
 <p align="center">
-<img src="images/RNA3_2D_B.png"  height=400>
+<img src="images/RNA3_2D_B.png"  height=500>
 </p>
 
 Se aprecia en la gráfica que la red no aproxima bien el mallado, sóla se aproxima en una region pequeña. 
