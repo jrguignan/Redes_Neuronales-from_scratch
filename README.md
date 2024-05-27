@@ -1,8 +1,8 @@
 # Índice
-* [Estructura General de los Distintos Archivos](#Estructura_General_de_los_Distintos_Archivos)
-* [Red 3 Neuronas - Función Unidimensional](#Red_3_Neuronas_-_Función_Unidimensional)
-* [Red 6 Neuronas](#Red_6_Neuronas)
-* [Red de Prueba](#Red_de_Prueba)
+* [Estructura General de los Distintos Archivos](#Estructura-General-de-los-Distintos-Archivos)
+* [Red 3 Neuronas - Función Unidimensional](#Red-3-Neuronas---Función-Unidimensional)
+* [Red 6 Neuronas](#Red-6-Neuronas)
+* [Red de Prueba](#Red-de-Prueba)
 * [Autor](#Autor)
 
 <p align="center">
