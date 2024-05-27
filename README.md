@@ -29,50 +29,60 @@ Se calcula el error cuadratico a partir de los datos predichos y los datos origi
 
 ### Descenso del Gradiente - Backpropagation<br>
 
-El descenso del gradiente se aplica sólo para las redes de una sola capa, en caso de poseer más de una capa se debe aplicar el algoritmo de backpropagation.
+El descenso del gradiente se aplica sólo para las redes de una sola capa, en caso de poseer más de una capa se debe aplicar tambien el algoritmo de backpropagation.
 
 ## [Red 3 Neuronas - Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
 
-Red neuronal de 3 neuronas y una capa única
+Red neuronal de 3 neuronas y una capa única:
 
 <p align="center">
-<img src="images/RNA3_A.png"  height=300>
+<img src="images/RNA3_A.png"  height=400>
 </p>
 
 Se ve como los puntos proporcionados por la red se aproximan en cieto dominio de la función
 
 ## [Red 6 Neuronas](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA6.ipynb)
 
-Red neuronal de 6 neuronas y una capa única.
+Red neuronal de 6 neuronas y una capa única:
 
 <p align="center">
-<img src="images/RNA6_A.png"  height=300>
+<img src="images/RNA6_A.png"  height=400>
 </p>
 
 Es una predicción muy similar a la red de 3 capas únicas.
 
+Red neuronal con dos capas de 3 neuronas cada una:
+Sin matrices
 <p align="center">
-<img src="images/RNA6_B.png"  height=300>
+<img src="images/RNA6_B.png"  height=400>
 </p>
 
+
+Red neuronal con dos capas de 3 neuronas cada una:
+Con matrices
 <p align="center">
-<img src="images/RNA6_C.png"  height=300>
+<img src="images/RNA6_C.png"  height=400>
 </p>
+
+Para estos dos casos se utilizaron más datos para el entrenamiento, ya que se apreción una mejora al aumentar los datos. Se ve una mejor aproximación que los casos de capas únicas.
+
+Se vio un cambio considerable en el tiempo de ejecución entre la red construida con matrices y sin matrices. En esto se ve que la arquitectura de las computadores se contruye en función de cuentas de algebra lienal.
 
 
 ## [Red de Prueba](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA%20_Prueba)
 
 <p align="center">
-<img src="images/RNA_Prueba_A.png"  height=300>
+<img src="images/RNA_Prueba_A.png"  height=400>
 </p>
 
+Se ve como la red construida con Tensorflow-Keras tiene una proximación muy similar a la red de dos capas de 3 neuronas.
 
 ## [Red 3 Neuronas - Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
 
 <p align="center">
-<img src="images/RNA3_2D_A.png"  height=300>
+<img src="images/RNA3_2D_A.png"  height=400>
 </p>
 
 <p align="center">
-<img src="images/RNA3_2D_B.png"  height=300>
+<img src="images/RNA3_2D_B.png"  height=400>
 </p>
