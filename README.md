@@ -33,20 +33,23 @@ El descenso del gradiente se aplica sólo para las redes de una sola capa, en ca
 
 ## [Red 3 Neuronas - Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
 
+Red neuronal de 3 neuronas y una capa única
+
 <p align="center">
 <img src="images/RNA3_A.png"  height=300>
 </p>
 
-<p align="center">
-<img src="images/RNA3_B.png"  height=300>
-</p>
-
+Se ve como los puntos proporcionados por la red se aproximan en cieto dominio de la función
 
 ## [Red 6 Neuronas](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA6.ipynb)
+
+Red neuronal de 6 neuronas y una capa única.
 
 <p align="center">
 <img src="images/RNA6_A.png"  height=300>
 </p>
+
+Es una predicción muy similar a la red de 3 capas únicas.
 
 <p align="center">
 <img src="images/RNA6_B.png"  height=300>
