@@ -37,6 +37,10 @@ Se calcula el error cuadratico a partir de los datos predichos y los datos origi
 
 El descenso del gradiente se aplica sólo para las redes de una sola capa, en caso de poseer más de una capa se debe aplicar tambien el algoritmo de backpropagation.
 
+[Repositorio](https://github.com/jrguignan/Descenso_del_Gradiente-from_scratch) donde explico un poco mejor el descenso del gradiente, [video](https://www.youtube.com/watch?v=A6FiCDoz8_4) donde se explica el algoritmo.
+
+[video](https://www.youtube.com/watch?v=eNIqz_noix8&list=PL-Ogd76BhmcB9OjPucsnc2-piEE96jJDQ&index=4) donde se explica el algoritmo de backpropagation.
+
 <br>[Volver al Índice](#Índice)
 
 ## [Red 3 Neuronas - Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
