@@ -6,7 +6,7 @@
 * [Autor](#Autor)
 
 <p align="center">
-<img src="images/RN_A.png"  height=400>
+<img src="images/banner_rna.png"  height=350>
 </p>
 
 
