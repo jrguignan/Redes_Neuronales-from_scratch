@@ -1,13 +1,13 @@
+<p align="center">
+<img src="images/banner_rna.png"  height=400>
+</p>
+
 # Índice
 * [Estructura General de los Distintos Archivos](#Estructura-General-de-los-Distintos-Archivos)
 * [Red 3 Neuronas - Función Unidimensional](#Red-3-Neuronas---Función-Unidimensional)
 * [Red 6 Neuronas](#Red-6-Neuronas)
 * [Red de Prueba](#Red-de-Prueba)
 * [Autor](#Autor)
-
-<p align="center">
-<img src="images/banner_rna.png"  height=350>
-</p>
 
 
 Una red neuronal es un modelo computacional inspirado en la estructura y funcionamiento del cerebro humano. Consiste en una red de nodos interconectados, organizados en capas, donde cada nodo representa una neurona artificial que procesa información. Estas redes pueden aprender y realizar tareas complejas mediante el ajuste de los pesos de las conexiones entre nodos, utilizando algoritmos de aprendizaje automático. Las redes neuronales se utilizan en una variedad de aplicaciones, incluyendo reconocimiento de imágenes, procesamiento de lenguaje natural, pronóstico del tiempo, diagnóstico médico y conducción autónoma, entre otros.<br>
