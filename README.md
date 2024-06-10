@@ -7,7 +7,7 @@
 * [Red 3 Neuronas](#Red-3-Neuronas)
 * [Red 6 Neuronas](#Red-6-Neuronas)
 * [Red de Prueba](#Red-de-Prueba)
-* [Red 3 Neuronas Función Bidimensional (2D)](#Red-3-Neuronas-Función-Bidimensional-(2D))
+* [Red 3 Neuronas Función Bidimensional](#Red-3-Neuronas-Función-Bidimensional)
 * [Autor](#Autor)
 
 
@@ -108,7 +108,7 @@ Se ve como la red construida con Tensorflow-Keras tiene una proximación muy sim
 
 
 
-# [Red 3 Neuronas Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
+# [Red 3 Neuronas Función Bidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
 
 Se utilizo la funcion np.meshgrid, para crear un mallado 2D (dominio) y luego pasar este mallado por una funcion y generar Z 2D (rango)
 
