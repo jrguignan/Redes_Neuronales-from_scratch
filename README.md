@@ -94,7 +94,7 @@ Se vio un cambio considerable en el tiempo de ejecución entre la red construida
 
 <br>[Volver al Índice](#Índice)
 
-# [Red de Prueba](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA%20_Prueba)
+# [Red de Prueba](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA_Prueba.ipynb)
 
 Red neuronal Tensorflow:
 
@@ -108,7 +108,7 @@ Se ve como la red construida con Tensorflow-Keras tiene una proximación muy sim
 
 
 
-# [Red 3 Neuronas - Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
+# [Red 3 Neuronas Función Bidimensional (2D)](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3_2D.ipynb)
 
 Se utilizo la funcion np.meshgrid, para crear un mallado 2D (dominio) y luego pasar este mallado por una funcion y generar Z 2D (rango)
 
