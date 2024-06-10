@@ -7,7 +7,7 @@
 * [Red 3 Neuronas - Función Unidimensional](#Red-3-Neuronas---Función-Unidimensional)
 * [Red 6 Neuronas](#Red-6-Neuronas)
 * [Red de Prueba](#Red-de-Prueba)
-* [Red 3 Neuronas - Función Bidimensional (2D)](#Red-3-Neuronas---Función-Bidimensional-(2D))
+* [Red 3 Neuronas - Función Bidimensional (2D)](#Red-3-Neuronas-Función-Bidimensional-(2D))
 * [Autor](#Autor)
 
 
@@ -44,7 +44,7 @@ El descenso del gradiente se aplica sólo para las redes de una sola capa, en ca
 
 <br>[Volver al Índice](#Índice)
 
-# [Red 3 Neuronas - Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
+# [Red 3 Neuronas Función Unidimensional](https://github.com/jrguignan/Redes_Neuronales-from_scratch/blob/main/RNA3.ipynb)
 
 Red neuronal de 3 neuronas y una capa única:
 
